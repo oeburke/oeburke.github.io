@@ -7,11 +7,6 @@ title: 'Atlantic Sturgeon Habitat in the Roanoke River'
 authors:
   - me
 
-# Author notes (optional)
-#author_notes:
- # - 'Equal contribution'
- # - 'Equal contribution'
-
 date: '2026-05-03T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
