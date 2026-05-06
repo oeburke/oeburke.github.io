@@ -9,7 +9,7 @@ date: '2026-05-03T00:00:00Z'
 # publication_types: ['paper-conference']
 
 # publication: In *HugoBlox Kit Conference*
-# publication_short: In *ICW*
+publication_short: In *ICW*
 
 abstract: Final project paper for GIS 582 class, Geospatial Modeling. Analyzes the migratory and spawning habitat requirements of Atlantic Sturgeon as they travel upstream the Roanoke River in North Carolina.
 
