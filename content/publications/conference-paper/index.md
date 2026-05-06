@@ -15,11 +15,11 @@ date: '2026-05-03T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
+ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *HugoBlox Kit Conference*
-#publication_short: In *ICW*
+publication: In *HugoBlox Kit Conference*
+publication_short: In *ICW*
 
 abstract: Final project paper for GIS 582 class, Geospatial Modeling. Analyzes the migratory and spawrning habitat requirements of Atlantic Sturgeon as they travel upstream the Roanoke River in North Carolina. 
 
