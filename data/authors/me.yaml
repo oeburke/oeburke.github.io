@@ -11,7 +11,10 @@ name:
 status:
   icon: "🌎"
 role: GIS Graduate Student
-bio: Olivia Burke is a second year student in the MGIST Program at North Carolina State University.
+bio: Hello! My name is Olivia Burke and I am a second year student in the Masters of Geographic Information Science and
+    Technology program at North Carolina State University. I enjoy cartographic design, data management, and programming to 
+    showcase my interests. My projects typically focus on enviromental justice, health equity, human geography, and wildlife 
+    tracking. 
 
 #affiliations:
  # - name: Meta AI
@@ -37,6 +40,7 @@ interests:
   - Remote Sensing
   - Environmental Justice
   - Healthcare Equity
+  - Cartographic Design
 
 education:
   - degree: Master of Geospatial Science and Technology
