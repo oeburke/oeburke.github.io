@@ -18,9 +18,9 @@ tags:
 
 featured: true
 
- hugoblox:
+hugoblox:
   ids:
-  doi: 10.5555/123456
+    doi: 10.5555/123456
 
 image:
   caption: 'Image credit: [**NOAA**](https://www.fisheries.noaa.gov/species/atlantic-sturgeon)'
