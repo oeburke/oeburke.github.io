@@ -66,15 +66,15 @@ sections:
  #       exclude_featured: false
  #   design:
  #     view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent Projects
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent Projects
+#      filters:
+#        folders:
+#          - events
+#    design:
+#      view: card
 #  - block: collection
  #   id: news
   #  content:
