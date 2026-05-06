@@ -6,14 +6,13 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+ # - 'Equal contribution'
+ # - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2026-05-03T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -33,7 +32,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Habitat Suitability
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,16 +46,6 @@ hugoblox:
 links:
   - type: pdf
     url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
